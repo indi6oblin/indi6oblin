@@ -1,18 +1,10 @@
 ### Hi there 👋
 
 My name is Supardianto. Currently, I'm a lecturer, PHP addict, web developer for government or private sector, and lead developer for Polibatam Software Team
-<br/>
-<br/>
 
-
-- 🗼 Livin' in **Bekasi, West Java, Indonesia**
-
-- 👨‍💻 Open to freelance
-
+- 🗼 Livin' in **Batam, Riau Island, Indonesia**
+- 👨‍💻 Open to learn
 - 🎮 Gaming, animes, series, and movies
-
-
-<br/>
 
 ### 📈 GitHub Stats
 
